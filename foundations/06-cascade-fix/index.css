@@ -1,0 +1,32 @@
+.button {
+    border: 1px;
+    border-color: black;
+    color: white;
+    font-size: large;
+}
+
+#confirm-button {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+.para {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.small-para {
+    font-size: medium;
+}
+
+div.text {
+    font-size: 24px;
+}
+
+div.child {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
